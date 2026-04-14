@@ -11,7 +11,7 @@ Este repositório é dedicado à consolidação de conceitos essenciais da lingu
 ## 📂 Estrutura de Estudos
 O projeto está organizado por módulos de competência técnica:
 - [X] **Lógica de Programação:** Estruturas sequenciais, condicionais e operadores.
-- [ ] **Estruturas de Repetição:** Otimização de fluxos com `while` e `for`.
+- [X] **Estruturas de Repetição:** Otimização de fluxos com `while` e `for`.
 - [ ] **POO (Object-Oriented Programming):** Classes, atributos, métodos e pilares da orientação a objetos.
 - [ ] **Data Management:** Manipulação de coleções (Lists, Maps), vetores e tratamento de exceções.
 - [ ] **Persistência:** Integração com bancos de dados e padrões de acesso a dados.
